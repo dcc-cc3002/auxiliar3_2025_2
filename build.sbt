@@ -4,7 +4,7 @@ ThisBuild / scalaVersion := "3.3.5"
 
 lazy val root = (project in file("."))
   .settings(
-    name := "Auxiliar3_2025_1"
+    name := "Auxiliar3_2025_2"
   )
 
 libraryDependencies += "org.scalameta" %% "munit" % "0.7.29" % Test
